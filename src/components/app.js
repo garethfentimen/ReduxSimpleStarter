@@ -4,7 +4,7 @@ import VideoList from './video-list';
 import _ from 'lodash';
 import VideoDetail from './video-detail';
 import SearchBar from './search-bar';
-const apiKey  = 'AIzaSyB-n0sx1CmL--DEXBT340GdIqLDwc-Om7w';
+const apiKey  = '{apiKey}';
 
 
 export default class App extends Component {
